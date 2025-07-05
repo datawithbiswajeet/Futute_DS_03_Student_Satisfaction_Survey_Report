@@ -106,7 +106,7 @@ The integration of **animated KPI cards** and **Figma-led design planning** make
 ## 📂 Dataset & Resources
 
 - 📁 [Dataset CSV File](https://github.com/datawithbiswajeet/Futute_DS_03_Student_Satisfaction_Survey_Report/blob/main/Student_Satisfaction_Survey.csv)  
-- 🎥 [Video Demonstration Link](https://github.com/datawithbiswajeet/Futute_DS_03_Student_Satisfaction_Survey_Report/blob/main/student%20survey%20dashboard%20final.mp4)
+- 🎥 [Video Demonstration Link](https://github.com/datawithbiswajeet/Futute_DS_03_Student_Satisfaction_Survey_Report/blob/main/student%20survey%20dashboard.mp4)
 
 ---
 
