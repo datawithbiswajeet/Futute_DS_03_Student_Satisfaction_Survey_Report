@@ -1,6 +1,6 @@
 # 📊 Student Satisfaction Survey Dashboard – Power BI Project
 
-🔗 [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZWRmN2Y2MGQtNGIwNS00OGE5LTgxYTMtMmE4Y2EzNzhkMWM0IiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=2e58724e027cada30ec3)
+🔗 [**Live Power BI Dashboard**] (https://app.powerbi.com/view?r=eyJrIjoiNGQ4YzYxZGItNWU2Ny00ODI1LWE0NTMtY2I1YmE4ZjU1NjNiIiwidCI6IjEyYjI4YjhiLTVkOTItNDQ2ZC1iZWJhLTg1MGIxMTllNzk1YyJ9&pageName=2e58724e027cada30ec3)
 
 ![Dashboard Page 1](https://github.com/datawithbiswajeet/Futute_DS_03_Student_Satisfaction_Survey_Report/blob/main/1.png)
 ![Dashboard Page 2](https://github.com/datawithbiswajeet/Futute_DS_03_Student_Satisfaction_Survey_Report/blob/main/2.png)
